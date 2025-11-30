@@ -1,18 +1,7 @@
-
-import matplotlib.pyplot as plt
-import numpy as np
-import os
-import pandas as pd
-import pickle
-import seaborn as sn
-import sys
-import warnings
-
-from google.colab import drive
-from sklearn import metrics
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
-from sklearn.model_selection import train_test_split
-from sklearn.neural_network import MLPClassifier
-from sklearn.preprocessing import LabelEncod
+Flask
+numpy
+pandas
+scikit-learn
+joblib
+gunicorn
+matplotlib
